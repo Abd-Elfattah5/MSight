@@ -1,0 +1,32 @@
+LesionID,CentroidX,CentroidY,CentroidZ,SizeVoxels,VolumeCm3,Location
+1,45.019,136.642,81.981,53,0.053,Frontal Opercular Cortex
+2,48.796,125.245,79.99,98,0.098,Frontal Pole
+4,51.571,80.786,71.643,14,0.014,Inferior cerebellar peduncle L
+5,53.905,82.19,68.476,21,0.021,Inferior cerebellar peduncle L
+6,53.222,91.778,60.333,9,0.009,Background
+7,56.427,99.802,110.222,248,0.248,Superior Frontal Gyrus
+8,57.145,128.465,74.936,297,0.297,Cerebral peduncle L
+9,54.625,86.25,87.125,8,0.008,Pontine crossing tract
+10,56.0,90.0,53.5,2,0.002,Background
+11,57.0,97.0,53.5,2,0.002,Anterior limb of internal capsule L
+12,59.774,89.258,51.323,31,0.031,Background
+13,65.952,131.578,100.651,166,0.166,Body of corpus callosum
+14,66.556,119.944,105.593,54,0.054,Left Accumbens
+15,68.942,163.244,83.071,225,0.225,Right Cerebral Cortex
+16,73.036,81.239,93.579,1954,1.954,Medial lemniscus L
+17,69.471,142.143,81.9,70,0.07,Body of corpus callosum
+18,74.0,142.5,82.5,4,0.004,Right Lateral Ventricle
+19,77.0,95.333,129.333,3,0.003,Insular Cortex
+20,80.0,103.0,128.5,2,0.002,Insular Cortex
+21,90.0,171.0,88.5,2,0.002,Medial lemniscus R
+22,105.297,111.081,102.264,569,0.569,Splenium of corpus callosum
+23,100.763,144.535,81.886,114,0.114,Middle cerebellar peduncle
+24,104.306,66.948,81.54,811,0.811,Medial lemniscus L
+25,106.726,91.187,109.813,646,0.646,Insular Cortex
+26,104.55,164.925,79.875,40,0.04,Background
+27,107.0,85.0,76.5,4,0.004,Medial lemniscus L
+28,113.798,138.676,91.744,262,0.262,Genu of corpus callosum
+29,113.667,152.245,84.157,102,0.102,Genu of corpus callosum
+30,113.438,95.188,91.0,16,0.016,Middle cerebellar peduncle
+31,127.19,149.667,72.952,21,0.021,Frontal Pole
+32,130.0,79.333,100.333,3,0.003,Background

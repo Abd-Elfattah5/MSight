@@ -1,0 +1,253 @@
+Debugging Output - 20250723_220428
+Mask File: /teamspace/studios/this_studio/inference_modalities/server_predicted_mask_1753307744.nii
+Patient ID: patient_1753308275
+
+Lesion Data:
+Lesion 1:
+  Centroid: (45.019, 136.642, 81.981)
+  Size: 53 voxels
+  Volume: 0.053 cm³
+  Location: Frontal Opercular Cortex
+
+Lesion 2:
+  Centroid: (48.796, 125.245, 79.99)
+  Size: 98 voxels
+  Volume: 0.098 cm³
+  Location: Frontal Pole
+
+Lesion 4:
+  Centroid: (51.571, 80.786, 71.643)
+  Size: 14 voxels
+  Volume: 0.014 cm³
+  Location: Inferior cerebellar peduncle L
+
+Lesion 5:
+  Centroid: (53.905, 82.19, 68.476)
+  Size: 21 voxels
+  Volume: 0.021 cm³
+  Location: Inferior cerebellar peduncle L
+
+Lesion 6:
+  Centroid: (53.222, 91.778, 60.333)
+  Size: 9 voxels
+  Volume: 0.009 cm³
+  Location: Background
+
+Lesion 7:
+  Centroid: (56.427, 99.802, 110.222)
+  Size: 248 voxels
+  Volume: 0.248 cm³
+  Location: Superior Frontal Gyrus
+
+Lesion 8:
+  Centroid: (57.145, 128.465, 74.936)
+  Size: 297 voxels
+  Volume: 0.297 cm³
+  Location: Cerebral peduncle L
+
+Lesion 9:
+  Centroid: (54.625, 86.25, 87.125)
+  Size: 8 voxels
+  Volume: 0.008 cm³
+  Location: Pontine crossing tract
+
+Lesion 10:
+  Centroid: (56.0, 90.0, 53.5)
+  Size: 2 voxels
+  Volume: 0.002 cm³
+  Location: Background
+
+Lesion 11:
+  Centroid: (57.0, 97.0, 53.5)
+  Size: 2 voxels
+  Volume: 0.002 cm³
+  Location: Anterior limb of internal capsule L
+
+Lesion 12:
+  Centroid: (59.774, 89.258, 51.323)
+  Size: 31 voxels
+  Volume: 0.031 cm³
+  Location: Background
+
+Lesion 13:
+  Centroid: (65.952, 131.578, 100.651)
+  Size: 166 voxels
+  Volume: 0.166 cm³
+  Location: Body of corpus callosum
+
+Lesion 14:
+  Centroid: (66.556, 119.944, 105.593)
+  Size: 54 voxels
+  Volume: 0.054 cm³
+  Location: Left Accumbens
+
+Lesion 15:
+  Centroid: (68.942, 163.244, 83.071)
+  Size: 225 voxels
+  Volume: 0.225 cm³
+  Location: Right Cerebral Cortex
+
+Lesion 16:
+  Centroid: (73.036, 81.239, 93.579)
+  Size: 1954 voxels
+  Volume: 1.954 cm³
+  Location: Medial lemniscus L
+
+Lesion 17:
+  Centroid: (69.471, 142.143, 81.9)
+  Size: 70 voxels
+  Volume: 0.07 cm³
+  Location: Body of corpus callosum
+
+Lesion 18:
+  Centroid: (74.0, 142.5, 82.5)
+  Size: 4 voxels
+  Volume: 0.004 cm³
+  Location: Right Lateral Ventricle
+
+Lesion 19:
+  Centroid: (77.0, 95.333, 129.333)
+  Size: 3 voxels
+  Volume: 0.003 cm³
+  Location: Insular Cortex
+
+Lesion 20:
+  Centroid: (80.0, 103.0, 128.5)
+  Size: 2 voxels
+  Volume: 0.002 cm³
+  Location: Insular Cortex
+
+Lesion 21:
+  Centroid: (90.0, 171.0, 88.5)
+  Size: 2 voxels
+  Volume: 0.002 cm³
+  Location: Medial lemniscus R
+
+Lesion 22:
+  Centroid: (105.297, 111.081, 102.264)
+  Size: 569 voxels
+  Volume: 0.569 cm³
+  Location: Splenium of corpus callosum
+
+Lesion 23:
+  Centroid: (100.763, 144.535, 81.886)
+  Size: 114 voxels
+  Volume: 0.114 cm³
+  Location: Middle cerebellar peduncle
+
+Lesion 24:
+  Centroid: (104.306, 66.948, 81.54)
+  Size: 811 voxels
+  Volume: 0.811 cm³
+  Location: Medial lemniscus L
+
+Lesion 25:
+  Centroid: (106.726, 91.187, 109.813)
+  Size: 646 voxels
+  Volume: 0.646 cm³
+  Location: Insular Cortex
+
+Lesion 26:
+  Centroid: (104.55, 164.925, 79.875)
+  Size: 40 voxels
+  Volume: 0.04 cm³
+  Location: Background
+
+Lesion 27:
+  Centroid: (107.0, 85.0, 76.5)
+  Size: 4 voxels
+  Volume: 0.004 cm³
+  Location: Medial lemniscus L
+
+Lesion 28:
+  Centroid: (113.798, 138.676, 91.744)
+  Size: 262 voxels
+  Volume: 0.262 cm³
+  Location: Genu of corpus callosum
+
+Lesion 29:
+  Centroid: (113.667, 152.245, 84.157)
+  Size: 102 voxels
+  Volume: 0.102 cm³
+  Location: Genu of corpus callosum
+
+Lesion 30:
+  Centroid: (113.438, 95.188, 91.0)
+  Size: 16 voxels
+  Volume: 0.016 cm³
+  Location: Middle cerebellar peduncle
+
+Lesion 31:
+  Centroid: (127.19, 149.667, 72.952)
+  Size: 21 voxels
+  Volume: 0.021 cm³
+  Location: Frontal Pole
+
+Lesion 32:
+  Centroid: (130.0, 79.333, 100.333)
+  Size: 3 voxels
+  Volume: 0.003 cm³
+  Location: Background
+
+Generated Report:
+**Neurologist's Report**
+
+**Patient Information**
+
+Due to HIPAA compliance, the patient's identifying information has been kept confidential and replaced with generic identifiers.
+
+**Imaging Details**
+
+- Imaging modality: MRI brain
+- Imaging sequences: T2-FLAIR-MPRAGE-PD
+- Resolution: 1 mm isotropic
+- Date of imaging acquisition: July 1, 2025
+
+**Findings**
+
+The MRI imaging study revealed a total of 31 lesions within the brain. The distribution and characteristics of these lesions are listed below:
+
+**Lesion Locations by Anatomical Region:**
+
+**Cortical Locations:**
+
+- Lesions 1, 7, and 15 located in the frontal opercular cortex, superior frontal gyrus, and right cerebral cortex, respectively. These lesions have volumes of 0.053 cm³, 0.248 cm³, and 0.225 cm³. Lesions 14 and 31 located in the left accumbens and frontal pole, with volumes of 0.054 cm³ and 0.021 cm³, respectively.
+
+**White Matter Locations:**
+
+- Lesions 22 and 29 located in the splenium and genu of corpus callosum, with volumes of 0.569 cm³ and 0.262 cm³ (Lesion 29), and 0.102 cm³ (Lesion 29), respectively.
+
+**Subcortical Locations:**
+
+- Lesions 8 and 24 located in the cerebral peduncle and medial lemniscus, with volumes of 0.297 cm³ and 0.811 cm³, respectively.
+
+**Juxtacortical Locations:**
+
+- Lesions 5 and 25 located in the inferior cerebellar peduncle and insular cortex, with volumes of 0.021 cm³ and 0.646 cm³, respectively.
+
+**Miscellaneous:**
+
+- Lesions 4, 6, and 12 located in the inferior cerebellar peduncle, background, and background, with volumes of 0.014 cm³, 0.009 cm³, and 0.031 cm³, respectively.
+- Lesions 9, 10, and 11 located in the pontine crossing tract, background, and anterior limb of internal capsule, with volumes of 0.008 cm³, 0.002 cm³, and 0.002 cm³, respectively.
+- Lesions 17, 18, 19, 20, 21, and 27 located in the body of corpus callosum, right lateral ventricle, insular cortex, insular cortex, medial lemniscus R, and medial lemniscus L, with volumes of 0.070 cm³, 0.004 cm³, 0.003 cm³, 0.002 cm³, 0.002 cm³, and 0.004 cm³, respectively.
+- Lesions 23, 30, and 33 not listed.
+
+**Total Lesion Volume:** 5.851 cm³
+
+**Impression:**
+
+Based on the imaging findings, there is evidence of widespread demyelination affecting various regions of the brain. The presence of 31 lesions in multiple locations indicates extensive disease activity. The largest lesion (Lesion 16) is located in the medial lemniscus, measuring 1.954 cm³. Other notable lesions include those located in the corpus callosum (Lesions 13, 17, 22, and 28), superior frontal gyrus (Lesion 7), and right cerebral cortex (Lesion 15), suggesting potential involvement of critical white matter tracts and cortical areas.
+
+**Recommendations:**
+
+Based solely on the imaging findings, the patient should be evaluated further to confirm the diagnosis of Multiple Sclerosis (MS). Consideration should be given to:
+
+1. Clinical examination to assess neurological deficits.
+2. Clinical correlation of imaging findings with patient symptoms, to establish a relationship between lesion locations and clinical manifestations.
+3. Further imaging studies to assess disease activity and progression.
+
+Due to the presence of extensive disease activity and involvement of critical brain regions, close follow-up with serial imaging studies is recommended to monitor disease progression and treatment response.
+
+Signed,
+
+[Name of Neurologist]

@@ -1,0 +1,15 @@
+litserve==0.2.13
+uvicorn==0.30.1
+torch==2.1.0
+torchvision==0.16.0
+nibabel==5.2.0
+numpy==1.24.3
+matplotlib==3.7.1
+scipy==1.11.4
+pandas==2.2.0
+torchio==0.19.6
+opencv-python==4.7.0.72
+pyarrow==17.0.0
+plotly==6.2.0
+nilearn==0.12.0
+groq==0.30.0
